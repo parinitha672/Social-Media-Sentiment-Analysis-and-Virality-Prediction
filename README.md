@@ -1,6 +1,7 @@
 # Social-Media-Sentiment-Analysis-and-Virality-Prediction
 
 ## Project Overview
+Live Demo : https://social-media-sentiment-analysis-and-virality-prediction-dazmm2.streamlit.app/
 
 **Social Media Sentiment Analysis and Virality Prediction** is a Data Science project developed to analyse social-media performance, understand audience sentiment and identify factors that influence content engagement and virality.
 
